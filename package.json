@@ -3,15 +3,16 @@
   "version": "1.0.0",
   "description": "responsive portfolio",
   "main": "index.js",
-  "homepage": "https://dhingl.github.io/portfolio",
+  "homepage": "https://qutbands.github.io/portfolio",
   "scripts": {
     "sass": "node-sass -w scss/ -o dist/css/ --recursive",
     "deploy": "gh-pages -d dist"
   },
-  "author": "Name",
+  "author": "QUT Bands",
   "license": "ISC",
   "dependencies": {
     "gh-pages": "^4.0.0",
     "node-sass": "^7.0.1"
   }
 }
+ 
